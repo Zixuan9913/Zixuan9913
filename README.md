@@ -38,7 +38,7 @@
   <tr>
     <td>Multilingual RAG System</td>
     <td>A Retrieval-Augmented Generation system supporting multiple languages for enhanced document understanding and question answering.</td>
-    <td><a href="[项目链接]">GitHub</a></td>
+    <td><a href="[项目链接]">[GitHub](https://github.com/Zixuan9913/Multilingual_RAG_Finetuning)</a></td>
   </tr>
   <tr>
     <td>RASA</td>
